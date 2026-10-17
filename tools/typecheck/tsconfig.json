@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["ES2020"],
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "noEmit": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+    "types": [],
+    "typeRoots": []
+  },
+  "files": ["stubs.d.ts"],
+  "include": ["../../apps/doctor-app/App.tsx", "../../apps/doctor-app/index.ts", "../../apps/doctor-app/src/**/*.ts", "../../apps/doctor-app/src/**/*.tsx"]
+}

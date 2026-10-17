@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# Expo / React Native
+.expo/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+ios/
+android/
+
+# build artefacts
+build.html
+*.log
+npm-debug.*
+yarn-error.*
+
+# env & OS
+.env
+.env.*
+.DS_Store
+Thumbs.db

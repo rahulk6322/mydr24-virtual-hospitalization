@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "MyDoctor24 Doctor",
+    "slug": "mydr24-doctor",
+    "version": "0.1.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.mydr24.doctor" },
+    "android": { "package": "com.mydr24.doctor" },
+    "web": { "bundler": "metro" }
+  }
+}
